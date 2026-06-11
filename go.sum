@@ -1,0 +1,8 @@
+github.com/averagestardust/eridol-core-go v1.1.7 h1:rSxT9IJQaY5s7MECGq/thFpXy9vLYp3GFtF0fgbE1lg=
+github.com/averagestardust/eridol-core-go v1.1.7/go.mod h1:5gkDROgqpgibS1S8yw6PWhIgxG1ZEIDjWear0DTvZBM=
+github.com/cwbudde/algo-fft v0.6.11 h1:XgyYQbnzVnGUwVJQPWDyCwMlPbS0ZeuQTAjHTJBpEig=
+github.com/cwbudde/algo-fft v0.6.11/go.mod h1:H5rJ7JNXvhe3kT4yc41TJB9DEnO7KlhHN7toLO+ZZXU=
+github.com/gen2brain/malgo v0.11.25 h1:g0eMVeZIBvMRBbkVSR8p7ZafGFbxBcQERPa1GKHkg34=
+github.com/gen2brain/malgo v0.11.25/go.mod h1:xLVG3ROA33Bzol1quF3e4ehqcFuqh8QK4B8T6LQUs/M=
+golang.org/x/sys v0.39.0 h1:CvCKL8MeisomCi6qNZ+wbb0DN9E5AATixKsvNtMoMFk=
+golang.org/x/sys v0.39.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
